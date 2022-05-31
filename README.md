@@ -1,5 +1,5 @@
 
-# Ditter 🐦
+# Ditter 🐦 [wip]
 **✨ A decentralized twitter on NEAR Protocol.**
 
 ![ditter-logo](https://i.imgur.com/A0v5HDX.png)
